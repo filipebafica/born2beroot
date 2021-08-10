@@ -5,7 +5,7 @@ A Linux server monitoring script
 * [About](#-about)
 * [Getting Started](#-getting-started)
 * [Scheduling a job with Cron](#-scheduling-a-job-with-cron)
-* [Demonstration](-demonstration)
+* [Demonstration](#-demonstration)
 * [42 École | 42 São Paulo](#-42-école--42-são-paulo)
 
 ## 🧐 About
@@ -59,7 +59,7 @@ Meaning of each field:
 ```
 Save and exit the text editor.
 
-## 👁️‍🗨️ Demonstration
+## 📺 Demonstration
 The script will be displayed as bellow:
 ![monitoring2](https://user-images.githubusercontent.com/31427890/128940369-5a478208-a1bb-4c1c-9cc6-5e4fcfac9d1a.png)
 
