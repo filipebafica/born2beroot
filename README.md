@@ -2,10 +2,11 @@
 A Linux server monitoring script
 
 ## 🗂 Table of Contents
-* [About](-about)
-* [Getting Started](-getting-started)
-* [Scheduling a job with Cron](-scheduling-a-job-with-cron)
-* [42 École | 42 São Paulo](-42-école--42-são-paulo)
+* [About](#-about)
+* [Getting Started](#-getting-started)
+* [Scheduling a job with Cron](#-scheduling-a-job-with-cron)
+* [Demonstration](-demonstration)
+* [42 École | 42 São Paulo](#-42-école--42-são-paulo)
 
 ## 🧐 About
 This is a script to get system information as follow:
@@ -32,7 +33,7 @@ Clone the repo in the desired folder in your server.
 $ git clone https://github.com/filipebafica/born2beroot.git
 ```
 
-## 🗓️ Scheduling a job with Cron
+## 📅 Scheduling a job with Cron
 Cron is a tool where users can schedule tasks to be executed at a specific time.
 
 #### ⚙️ Installing
@@ -58,7 +59,7 @@ Meaning of each field:
 ```
 Save and exit the text editor.
 
-#### 👁️‍🗨️ Demonstration
+## 👁️‍🗨️ Demonstration
 The script will be displayed as bellow:
 ![monitoring2](https://user-images.githubusercontent.com/31427890/128940369-5a478208-a1bb-4c1c-9cc6-5e4fcfac9d1a.png)
 
