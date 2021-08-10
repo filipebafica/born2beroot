@@ -60,7 +60,7 @@ Meaning of each field:
 Save and exit the text editor.
 
 ## 📺 Demonstration
-The script will be displayed as bellow:
+The script will be displayed every 10 minutes to all logged users as bellow:
 ![monitoring2](https://user-images.githubusercontent.com/31427890/128940369-5a478208-a1bb-4c1c-9cc6-5e4fcfac9d1a.png)
 
 ## 🏫 42 École | 42 São Paulo
