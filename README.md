@@ -25,7 +25,7 @@ This is a script to get system information as follow:
 * The number of commands executed with the sudo program.
 
 This project is part of 42 École/ 42 SP curriculum.\
-Topics such as System Administration was addressed.
+Topics such as system administration was addressed.
 
 ## 🏁 Getting Started
 Clone the repo in the desired folder in your server.
