@@ -1,5 +1,5 @@
 # born2beroot
-A Linux server monitoring script
+A Linux server monitoring script.
 
 ## 🗂 Table of Contents
 * [About](#-about)
