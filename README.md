@@ -28,6 +28,7 @@ This project is part of 42 École/ 42 SP curriculum.\
 Topics such as system administration was addressed.
 
 ## 🏁 Getting Started
+A Linux OS is needed.\
 Clone the repo in the desired folder in your server.
 ```
 $ git clone https://github.com/filipebafica/born2beroot.git
